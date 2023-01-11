@@ -13,3 +13,5 @@ En caso de no introducir las opciones --http_port --https_port --output, tendrá
 - `--http_port`: Puertos que se tratara de realizar peticiones http, por defecto,`'80','81','8080','8000','8008','2082','2095','3000','8888','8834'`
 - `--https_port`: Puertos que se tratara de realizar peticiones https, por defecto,`"443","8443","8003","2087","2096","3000","8888","8834"`
 - `--output`: Es el nombre archivo que tendrá la salida, por defecto será, `salidorras`
+
+![image](https://user-images.githubusercontent.com/33413670/211797837-e510e794-4e85-4e61-ab16-0b8b58853c91.png)
